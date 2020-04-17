@@ -1,0 +1,10 @@
+#user{
+	font-size:32px;
+}
+
+#posts > div{
+	margin-top:30px;
+	margin-bottom:30px;
+	padding:30px;
+	background-color:orangered;
+}
